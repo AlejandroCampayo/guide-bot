@@ -1,0 +1,18 @@
+"""
+Per instal·lar les llibreries necessàries pel projecte,
+cal executar la comanda "pip install -r requirements.txt"
+o bé "pip3 install -r requirements.txt"
+"""
+
+haversine==2.2.0
+networkx==2.4
+python-telegram-bot==12.6.1
+staticmap==0.5.4
+osmnx==0.12
+
+# L'última de les llibreries pot donar problemes a l'hora
+# d'instal·lar-se, si teniu qualsevol problema, intenteu
+# executar una de les dues comandes que teniu a continuació
+# tenint en compte el vostre sistema operatiu:
+# apt install libspatialindex-dev (Per Ubuntu)
+# brew install libspatialindex (Per Mac)

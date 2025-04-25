@@ -149,4 +149,4 @@ Alejandro Campayo Fernández
 
 ## References
 
-This project was carried out following the steps provided by [README.md](https://github.com/jordi-petit/ap2-guidebot/blob/master/README.md). The document was authored by Jordi Petit and Jordi Cortadella, professors at the Polytechnic University of Catalonia.
+This project was carried out following the steps provided [here](https://github.com/jordi-petit/ap2-guidebot/blob/master/README.md). The document was authored by Jordi Petit and Jordi Cortadella, professors at the Polytechnic University of Catalonia.
